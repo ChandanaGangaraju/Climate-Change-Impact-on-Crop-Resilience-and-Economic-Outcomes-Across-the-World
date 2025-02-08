@@ -32,3 +32,21 @@ Our approach involves:
 - **Precipitation patterns matter**: Too little or too much rainfall reduces crop yield.
 - **Effective adaptation strategies** (crop rotation, drought-resistant crops, and water management) significantly improve soil health and yield.
 - **Random Forest Model** identified **Temperature, CO2 Emissions, and Precipitation** as the top predictors of agricultural outcomes.
+
+## Installation
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/ChandanaGangaraju/Climate-Change-Impact-on-Crop-Resilience-and-Economic-Outcomes-Across-the-World.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Climate-Change-Impact-on-Crop-Resilience-and-Economic-Outcomes-Across-the-World
+    ```
+3. (Optional) Create and activate a virtual environment:
+    ```sh
+    python -m venv env
+    source env/bin/activate  # On Windows use `env\Scripts\activate`
+    ```
+4. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
