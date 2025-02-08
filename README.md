@@ -32,3 +32,14 @@ Our approach involves:
 - **Precipitation patterns matter**: Too little or too much rainfall reduces crop yield.
 - **Effective adaptation strategies** (crop rotation, drought-resistant crops, and water management) significantly improve soil health and yield.
 - **Random Forest Model** identified **Temperature, CO2 Emissions, and Precipitation** as the top predictors of agricultural outcomes.
+
+## Usage
+
+1.  Clone the repository:
+
+    ```
+    git clone [repository_url]
+    cd [repository_directory]
+    ```
+
+2.  Open and run the Jupyter Notebook `[YourNotebookName].ipynb` to reproduce the analysis.
